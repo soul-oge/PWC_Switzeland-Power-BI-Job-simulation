@@ -23,7 +23,7 @@ To view the dashboards, download and install [Power BI Desktop](https://powerbi.
 </p>
 
 <p align="center">
-    <img src="assets\Customer churn Analysis 2.png"
+    <img src="assets\Customer Churn Analysis 2.png"
     alt="Customer churn Analysis" style="width: 80%"/>
 </p>
   
